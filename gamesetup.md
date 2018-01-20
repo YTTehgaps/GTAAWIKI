@@ -1,7 +1,21 @@
 ---
 ---
 ### Graphical Settings 
-Hilighted in green are the most important settings  
+
+Setting | Option
+------------ | -------------
+Driver | (DX11)
+Screen Type | Windowed or Windowed Borderless
+FXAA| ON
+MSAA| ≥2
+Resolution| ≥ (1600x900) @16:9
+Distance Scaling|100%
+Texture Quality| ≥ Very High
+Shader Quality| ≥ Very High?
+Soft Shadows| Hardware Optimised
+Anisotropic Filtering| ≥ 16
+Tesselation| Hardware Optimised, Low or Better
+Advanced Settings: Extended Distance Scaling| 100%
 
 ![graphical-settings-01](https://i.imgur.com/myoGJ4n.jpg)
 IMG01-D3D11, Windowed Borderless **^OR^** Windowed, FXAA ON, MSAA ≥ x2, 1600x900 minimum (maintain 16:9 ratio for now).
