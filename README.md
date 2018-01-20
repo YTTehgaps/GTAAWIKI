@@ -1,2 +1,2 @@
 # GTAAWIKI
-*The GTAA wiki repo*  
+*The GTAA wiki repo.*  
