@@ -7,7 +7,7 @@ Setting | Option
 Driver | (DX11)
 Screen Type | Windowed or Windowed Borderless
 FXAA| ON
-MSAA| ≥2
+MSAA| ≥ 2
 Resolution| ≥ (1600x900) @16:9
 Distance Scaling|100%
 Texture Quality| ≥ Very High
