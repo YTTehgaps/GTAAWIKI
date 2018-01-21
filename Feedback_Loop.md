@@ -1,6 +1,14 @@
----
----
-### Graphical Settings 
+# **Index (Entire Feedback Loop A-Z)**  
+
+1. [GTAV](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#gtav)
+1. Image Capture
+1. Image Processing
+1. Key Output/Vehicle Controls
+
+---  
+---  
+# GTAV
+#### Graphical Settings  
 
 Setting | Option
 ------------ | -------------
@@ -25,3 +33,23 @@ Advanced Settings: Extended Distance Scaling| 100%
 ![graphical-settings-03](https://imgur.com/ToSnaPO.jpg)
 
 ![graphical-settings-04](https://imgur.com/bvVbZLM.jpg)
+
+
+#### MODS  
+**[w.i.p]**  
+Modmenu disable overlays, UI etc for clean framegrab.  
+Render minimap outside of game-frame output for navigation?  
+
+---  
+
+# Image Capture  
+NvIFR / Nvidia Capture SDK for Nv GPUs.  
+AMF SDK for AMD GPUs.  
+
+--- 
+
+# Image Processing  
+---  
+
+# Program Output
+---  
