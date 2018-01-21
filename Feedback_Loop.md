@@ -6,8 +6,8 @@
 1. [Key Output/Vehicle Controls](#program-output)
 
 ---  
-<a name="lemon"></a>
 ---  
+
 # GTAV
 #### Graphical Settings  
 
@@ -25,7 +25,9 @@ Soft Shadows| Hardware Optimised
 Anisotropic Filtering| ≥ 16
 Tesselation| Hardware Optimised, Low or Better
 Advanced Settings: Extended Distance Scaling| 100%
-**Other Settings**| **Irrelevant/Lower to increase performance**
+**Other Settings**| **Irrelevant/Lower to increase performance**  
+
+
 [to-lemon](#lemon)
 
 ![graphical-settings-01](https://i.imgur.com/myoGJ4n.jpg)
@@ -33,6 +35,8 @@ Advanced Settings: Extended Distance Scaling| 100%
 ![graphical-settings-02](https://imgur.com/tu3mu5f.jpg)
 
 ![graphical-settings-03](https://imgur.com/ToSnaPO.jpg)
+
+<a name="lemon"></a>
 
 ![graphical-settings-04](https://imgur.com/bvVbZLM.jpg)
 
