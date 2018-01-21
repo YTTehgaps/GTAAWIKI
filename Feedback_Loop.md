@@ -1,9 +1,9 @@
 # **Index (Entire Feedback Loop A-Z)**  
 
 1. [GTAV](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#gtav)
-1. [Image Capture] (https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#image-capture)
-1. [Image Processing] (https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#image-processing)
-1. [Key Output/Vehicle Controls] (https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#program-output)
+1. [Image Capture](https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#image-capture)
+1. [Image Processing](https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#image-processing)
+1. [Key Output/Vehicle Controls](https://github.com/YTTehgaps/GTAA/wiki/Feedback_Loop.md#program-output)
 
 ---  
 ---  
