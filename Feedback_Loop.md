@@ -1,3 +1,4 @@
+<a name="^"></a>
 # **Index (Entire Feedback Loop A-Z)**  
 
 1. [GTAV](#gtav)
@@ -36,8 +37,6 @@ Advanced Settings: Extended Distance Scaling| 100%
 
 ![graphical-settings-03](https://imgur.com/ToSnaPO.jpg)
 
-<a name="lemon"></a>
-
 ![graphical-settings-04](https://imgur.com/bvVbZLM.jpg)
 
 
@@ -46,7 +45,7 @@ Advanced Settings: Extended Distance Scaling| 100%
 Modmenu disable overlays, UI etc for clean framegrab.  
 Render minimap outside of game-frame output for navigation?  
 
-[Back To Top](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#top) | [GTAV](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#gtav) | [Image Capture](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#image-capture) | [Image Processing](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#image-processing) | [Key Output/Vehicle Controls](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#program-output)
+[Back To Top](#top) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)
 
 ---  
 
