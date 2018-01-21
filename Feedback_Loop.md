@@ -1,15 +1,12 @@
-<a name="top"></a>
 # **Index (Entire Feedback Loop A-Z)**  
 
-1. [GTAV](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#gtav)
-1. [Image Capture](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#image-capture)
-1. [Image Processing](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#image-processing)
-1. [Key Output/Vehicle Controls](https://github.com/YTTehgaps/GTAA/wiki/Feedback-Loop:-A%E2%80%90Z#program-output)
+1. [GTAV](#gtav)
+1. [Image Capture](#image-capture)
+1. [Image Processing](#image-processing)
+1. [Key Output/Vehicle Controls](#program-output)
 
 ---  
-
-[link text](#test)
-
+<a name="lemon"></a>
 ---  
 # GTAV
 #### Graphical Settings  
@@ -29,7 +26,7 @@ Anisotropic Filtering| ≥ 16
 Tesselation| Hardware Optimised, Low or Better
 Advanced Settings: Extended Distance Scaling| 100%
 **Other Settings**| **Irrelevant/Lower to increase performance**
-#### test
+[to-lemon](#lemon)
 
 ![graphical-settings-01](https://i.imgur.com/myoGJ4n.jpg)
 
