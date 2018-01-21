@@ -7,7 +7,7 @@
 1. [Key Output/Vehicle Controls](#program-output)
 
 ---  
----  
+
 
 # GTAV
 #### Graphical Settings  
@@ -29,8 +29,6 @@ Advanced Settings: Extended Distance Scaling| 100%
 **Other Settings**| **Irrelevant/Lower to increase performance**  
 
 
-[to-lemon](#lemon)
-
 ![graphical-settings-01](https://i.imgur.com/myoGJ4n.jpg)
 
 ![graphical-settings-02](https://imgur.com/tu3mu5f.jpg)
@@ -45,7 +43,9 @@ Advanced Settings: Extended Distance Scaling| 100%
 Modmenu disable overlays, UI etc for clean framegrab.  
 Render minimap outside of game-frame output for navigation?  
 
-[Back To Top](#top) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)
+---  
+
+###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
 
 ---  
 
@@ -53,10 +53,25 @@ Render minimap outside of game-frame output for navigation?
 NvIFR / Nvidia Capture SDK for Nv GPUs.  
 AMF SDK for AMD GPUs.  
 
+---  
+
+###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
+
 --- 
 
 # Image Processing  
+
+
 ---  
 
-# Program Output
+###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
+
+---  
+
+# Program Output  
+
+---  
+
+###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)
+
 ---  
