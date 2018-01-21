@@ -16,7 +16,7 @@ Soft Shadows| Hardware Optimised
 Anisotropic Filtering| ≥ 16
 Tesselation| Hardware Optimised, Low or Better
 Advanced Settings: Extended Distance Scaling| 100%
-Other Settings| Irrelevant/Lower to increase performance
+**Other Settings**| **Irrelevant/Lower to increase performance**
 
 ![graphical-settings-01](https://i.imgur.com/myoGJ4n.jpg)
 
