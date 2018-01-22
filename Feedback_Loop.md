@@ -44,7 +44,7 @@ Modmenu disable overlays, UI etc for clean framegrab.
 Render minimap outside of game-frame output for navigation?  
 
 ---  
-
+###### [Development/Progress Status - GTAV](https://github.com/YTTehgaps/GTAA/projects/1)  
 ###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
 
 ---  
@@ -53,9 +53,12 @@ Render minimap outside of game-frame output for navigation?
 NvIFR / Nvidia Capture SDK for Nv GPUs.  
 AMF SDK for AMD GPUs.  
 
+
+
 ---  
 
-###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
+###### [Development/Progress Status - Image Capture](https://github.com/YTTehgaps/GTAA/projects/2)
+###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)    
 
 --- 
 
@@ -64,6 +67,7 @@ AMF SDK for AMD GPUs.
 
 ---  
 
+###### [Development/Progress Status - Image Processing](https://github.com/YTTehgaps/GTAA/projects/3)
 ###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)  
 
 ---  
@@ -72,6 +76,7 @@ AMF SDK for AMD GPUs.
 
 ---  
 
+###### [Development/Progress Status - Program Output](https://github.com/YTTehgaps/GTAA/projects/4)
 ###### Quick Index: [Back To Top](#^) | [GTAV](#gtav) | [Image Capture](#image-capture) | [Image Processing](#image-processing) | [Key Output/Vehicle Controls](#program-output)
 
 ---  
